@@ -13,4 +13,4 @@ The Pac Man game and support is now available for mobile devices. Go to Google P
 
 ## Roadmap
 This project is presented as a part of student boot camp portfolio.
-<img src="./pacmen-screenshot">
+<img src="./pacmen-screenshot.png">
